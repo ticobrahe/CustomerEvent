@@ -1,0 +1,15 @@
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\bin\Debug\net6.0\CustomerEvent.exe
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\bin\Debug\net6.0\CustomerEvent.deps.json
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\bin\Debug\net6.0\CustomerEvent.runtimeconfig.json
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\bin\Debug\net6.0\CustomerEvent.dll
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\bin\Debug\net6.0\CustomerEvent.pdb
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.csproj.AssemblyReference.cache
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.AssemblyInfoInputs.cache
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.AssemblyInfo.cs
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.csproj.CoreCompileInputs.cache
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.dll
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\refint\CustomerEvent.dll
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.pdb
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\CustomerEvent.genruntimeconfig.cache
+C:\Users\olabi\source\repos\CustomerEvent\CustomerEvent\obj\Debug\net6.0\ref\CustomerEvent.dll
